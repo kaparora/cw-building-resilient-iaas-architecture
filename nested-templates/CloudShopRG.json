@@ -93,7 +93,7 @@
     "WebStorageAccountContainerName": "vhds",
     "WebNicName": "[concat(parameters('WebVMName'), 'NetworkInterface')]",
     "SQLOSDiskName": "SQLOSDisk2",
-    "SQLVmSize": "Standard_DS1_v2",
+    "SQLVmSize": "Standard_DS2_v2",
     "SQLSubnetRef": "[concat(variables('VnetID'), '/subnets/', variables('VNETSubnet2Name'))]",
     "SQLStorageAccountContainerName": "vhds",
     "SQLNicName": "[concat(parameters('SQLVMName'), 'NetworkInterface')]",
