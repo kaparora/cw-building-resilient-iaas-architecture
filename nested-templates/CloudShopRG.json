@@ -88,7 +88,7 @@
     "SQLImageOffer": "SQL2014SP2-WS2012R2",
     "WebOSDiskName": "WebOSDisk",
     "WebVM-2OSDiskName": "WebOSDisk2",
-    "WebVmSize": "Standard_DS1_v2",
+    "WebVmSize": "Standard_DS2_v2",
     "WebSubnetRef": "[concat(variables('VnetID'), '/subnets/', variables('VNETSubnet1Name'))]",
     "WebStorageAccountContainerName": "vhds",
     "WebNicName": "[concat(parameters('WebVMName'), 'NetworkInterface')]",
