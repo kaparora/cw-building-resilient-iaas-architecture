@@ -25,9 +25,9 @@
             }
         },
         "variables": {
-            "baseUri": "https://raw.githubusercontent.com/opsgility/cw-building-resilient-iaas-architecture/master/",
-            "ADInstallScript":"https://raw.githubusercontent.com/opsgility/introduction-to-nested-templates/master/script-extensions/deploy-ad.ps1",
-            "ADJoinScript":"https://raw.githubusercontent.com/opsgility/introduction-to-nested-templates/master/script-extensions/domain-join.ps1"
+            "baseUri": "https://raw.githubusercontent.com/kapilarora/cw-building-resilient-iaas-architecture/master/",
+            "ADInstallScript":"https://raw.githubusercontent.com/kapilarora/introduction-to-nested-templates/master/script-extensions/deploy-ad.ps1",
+            "ADJoinScript":"https://raw.githubusercontent.com/kapilarora/introduction-to-nested-templates/master/script-extensions/domain-join.ps1"
         },
         "resources": [
             {
